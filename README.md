@@ -1,4 +1,4 @@
-# Synce Discord Bot Privacy Policy
+## Synce Discord Bot Privacy Policy
 
 1. What is the Synce Bot?
 Synce is a bot service that can be used in a Discord server. This bot can facilitate server moderation, track entry and exit events, automatically assign roles to incoming members, and perform various other functions.
