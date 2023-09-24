@@ -1,3 +1,4 @@
+Synce Discord Bot Privacy Policy
 
 1. What is the Synce Bot?
 
