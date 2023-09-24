@@ -1,4 +1,7 @@
-Synce Discord Bot Privacy Policy
+# Synce Discord Bot Privacy Policy
+
+This privacy policy outlines how user data is processed when using the Synce Bot in Discord servers. By using the bot, you acknowledge that you have accepted and agreed to comply with these terms.
+Please read this privacy policy carefully, and if you have any questions or concerns, don't hesitate to contact us.
 
 1. What is the Synce Bot?
 
@@ -25,7 +28,5 @@ This privacy policy may be updated in the event of Synce Bot's development or ch
 For any privacy or security concerns or questions related to the Synce Bot, please reach out to us through the Synce Support Server.
 
 Synce Support Server: https://discord.gg/GqkXqUvyaD
-
-This privacy policy outlines how user data is processed when using the Synce Bot in Discord servers. By using the bot, you acknowledge that you have accepted and agreed to comply with these terms.
 
 Please read this privacy policy carefully, and if you have any questions or concerns, don't hesitate to contact us.
